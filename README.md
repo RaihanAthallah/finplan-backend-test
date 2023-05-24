@@ -1,6 +1,11 @@
 # Finplan Backend Engineering Test
 Assignment for Finplan internship backend test
 
+## BIODATA
+### Nama  : Muhammad Raihan Athallah
+### Email :rraihan1947@gmail.com
+
+
 ## FILES
 1. Untuk assignment point tes logika semua ada di file main.go
 2. Untuk assignment point backend test ada di folder 'TestBackend'
